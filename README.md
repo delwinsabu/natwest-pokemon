@@ -3,10 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Initial Commit : NatWest - Display Pokemon Information.
-    > Material UI Data Grid
-    > React Scroll for scroll effects
-    > Lodash JavaScript utility
-    > Axios for API call
+> Material UI Data Grid
+> React Scroll for scroll effects
+> Lodash JavaScript utility
+> Axios for API call
 
 ## Available Scripts
 
