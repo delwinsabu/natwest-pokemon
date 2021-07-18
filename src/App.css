@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  overflow: hidden;
 }
 
 .App-logo {
@@ -7,6 +8,17 @@
   pointer-events: none;
 }
 
+.link {
+  cursor: pointer;
+  padding: 10px;
+  border: 2px solid cyan;
+  color: cyan;
+  border-radius: 4px;
+} 
+
+.below {
+  margin-top: 200px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
